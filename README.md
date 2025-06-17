@@ -3,6 +3,9 @@
 A real-time voice chat application powered by ollama models. This project allows you to have voice conversations with AI models like mistral-nemo:12b running locally on your machine.
 The Agent is tailored for Emotional therapy conversation.
 
+1. CustomBertFinetune File is for finetune/ trianing bert classifier. 
+2. model_integration is for integrating the model with ollama LMM.
+
 ## Features
 
 - Real-time speech-to-text conversion
